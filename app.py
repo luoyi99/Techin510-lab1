@@ -1,8 +1,8 @@
 import streamlit as st
 
 # title
-st.title("YI'S PERSONAL WEBSITE")
-
+st.title("Hello! I'm Yi Luo.")
+st.divider()
 
 
 # load the video file
